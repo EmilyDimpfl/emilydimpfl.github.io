@@ -8,7 +8,7 @@ layout: home
 
 ## Wandertale:
 
-I'm working on a turn based, grid based game I'm tentatively calling Wandertale in my spare time.
+I'm working on a grid based tactics roleplaying game I'm tentatively calling Wandertale in my spare time.
 
 ![Map Image](../content/wandertale/Aseprite_2020-11-10_00-04-30.png)
 
