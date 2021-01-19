@@ -2,16 +2,19 @@
 title: Portfolio
 layout: page
 permalink: /portfolio/
+published: false
 ---
 #### Navigation:
 
+* [Resume](#Resume)
 * [Standalone Applications](#Standalone Applications)
 * [Publication](#Publication)
 * [Game Projects](#Game Projects)
 * [Game Mods](#Game Mods)
 * [Graphic Work](#Graphic Work)
 
-* * *
+[Download Resume PDF](../content/resume.pdf)
+
 
 <h1 style="text-align: center;">
   <a name="Standalone Applications"></a>Standalone Applications
