@@ -22,7 +22,7 @@ Part of the reason I started developing my game was because I felt like there we
 
 Some tactics games in the vein of Fire Emblem force the player to move, and then act, and only (typically) allow a unit to move once a turn. Fire Emblem Dancers and Wargroove's Caesar special ability give units the ability to move a second time, but those are special powers, and require the sacrifice of one unit's turn to give other units a turn. Typically, they also force their entire team to take their turns simultaneously.
 
-![](../content/wandertale/fe3h.jpg)
+![](/content/wandertale/fe3h.jpg)
 *Fire Emblem: 3 Houses uses limited attack ranges and single-action turns to force players to commit to attacks. (via [nintendo.com](https://ec.nintendo.com/AU/en/titles/70010000007605))*
 
 This turn dynamic of forcing the player to hard-commit in order to attack (and, depending on the system, potentially immediately be counter-attacked) works well in systems where there are many units. This forces the player to evaluate how many resources must be committed to preventing counter-attacks for each unit on the board, and increases the complexity of turns.
@@ -58,7 +58,7 @@ Divinity Original Sin 2 has a somewhat more involved D&D-esque stat system, and 
 
 Meanwhile, Dofus has an extremely complex gearing system with dozens of different stats:
 
-![Map Image](../content/wandertale/dofus_stats.png)
+![Map Image](/content/wandertale/dofus_stats.png)
 
 While each stat does it's own thing that's relatively easily understood conceptually within the game's systems, it makes gearing very complicated, and requires the developer implement many, MANY items (and the associated crafting/drop systems). It's taken a long time for Dofus to implement enough items that there are sufficient options for the various builds that players want to make.
 
@@ -100,7 +100,7 @@ Divinity Original Sin 2's equipment system has more variety, and while the playe
 
 Dofus' gear has (somewhat) randomized stats, which can be "maged" to be better, favor specific stats, and add "exotic" stats (like an extra ability or movement point). Additionally, gear is (almost) all crafted, and all gear can be traded or sold on the market. Some quested gear is account-bound for several months after being obtained to maintain exclusiveness for a window after new content comes out), in the context of an MMO, this is quite neat - gear isn't disposable, because you can sell it to other players after out-leveling it, or finding another set of gear that works better for them.
 
-![](../content/wandertale/sabres.png)
+![](/content/wandertale/sabres.png)
 *Just an average piece of level 200 equipment.* 🙃 (*via [dofus.com](https://www.dofus.com/en/mmorpg/encyclopedia/weapons/17586-atcham-sabres)*)
 
 I think this is actually quite cool in the context of an MMO. It's difficult for individual players to obtain all the resources they need to craft gear as well has leveling the many, many crafting professions to craft and mage gear. Dofus' maximum level is also very high, and high level characters have a huge variety of stats on their gear, and finding item combinations that work well together is an enormously complex undertaking. Some sites, such as [Dofus Fashionista](https://dofusfashionista.com/) have automated set builders that try to build item combinations focusing on user-selected stats in particular.
@@ -143,7 +143,7 @@ The game's systems use environmental effects heavily, and positioning around the
 
 These environmental effects and canonized buffs/debuffs have the advantage of making combat more "readable", and pretty easy to scan the board for what's going on. This is great, especially in a turn based game, where players might look away from the board while other players take their turn.
 
-![](../content/wandertale/dos2.jpg)
+![](/content/wandertale/dos2.jpg)
 *Divinity: Original Sin 2's environmental effects can rapidly spiral out of control. (via [steampowered.com](https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/))*
 
 In addition, characters can block movement, and many environmental effects have a large area of effect component. While some abilities have a projectile component (which means that it's possible to bodyblock some attacks), the system generally de-ephasizes very technical line of sight considerations because of splash damage, small tiles (they do exist, even if they try to hide them!) and fairly forgiving movement. However, it can be fairly finicky when it comes to positioning characters for backstabs and attacks of opportunity. Other tactics games (like Wakfu) also use positional spell effects and ask the player to care about the direction enemies are facing. I find that this can often end up making an already-technical system even more-so, so I'm currently torn on whether to include positionals or not. 
@@ -245,8 +245,6 @@ I'm planning on having a number of characters that focus on different types of p
 
 ## A final note
 
-There are a few topics I've been writing my own documentation and notes about that I may expand on for another post to follow this up - story, themes, worldbuilding, game loop structure, scope, art, music, and so on. I have a server that I use for development discussion and posting cat pictures, so if you're interested in joining the discussion, feel free to join us on Discord: https://discord.gg/vkdKtCX.
+There are a few topics I've been writing my own documentation and notes about that I may expand on for another post to follow this up - story, themes, worldbuilding, game loop structure, scope, art, music, and so on. I have a server that I use for development discussion and posting cat pictures, so if you're interested in joining the discussion, feel free to join us on Discord: [https://discord.gg/vkdKtCX](https://discord.gg/vkdKtCX).
 
-<p align="center"">
-   <img src="../content/wandertale/sorc.png" />
-</p>
+![](/content/wandertale/sorc.png)
